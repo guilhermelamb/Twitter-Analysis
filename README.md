@@ -4,10 +4,10 @@ In this work, I will be working mostly with Data Wrangling. I will gather data f
 
 This work is divided into three parts:
 
-<ul>
--Data Gathering;
--Assessing;
--Data Cleaning;
--Exploratory Data Analysis (EDA);
--Conclusions.
-</ul>
+
+- Data Gathering;
+- Assessing;
+- Data Cleaning;
+- Exploratory Data Analysis (EDA);
+- Conclusions.
+
